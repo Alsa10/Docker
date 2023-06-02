@@ -19,8 +19,3 @@ Welcome_message() {
 
     echo "Hello, Good Morning"
     echo "Welcome to Devops"
-
-} 
-
-Welcome_message
-

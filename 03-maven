@@ -1,0 +1,8 @@
+version:0.2
+phases:
+ runtime-version.
+   build:
+     commands:
+       -git clone https://rkb03:password@gitlab.com/d41/maven-sample.git
+       - cd maven-sample
+       - mvn clean package
